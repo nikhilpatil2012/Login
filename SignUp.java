@@ -42,7 +42,7 @@ public class SignUp extends Fragment {
 	public View onCreateView(LayoutInflater inflater, ViewGroup container,
 			Bundle savedInstanceState) {
 
-		v = inflater.inflate(R.layout.activity_login_details, null);
+		v = inflater.inflate(R.layout.signupfrag, null);
 		
 		DisplayMetrics MAT = new DisplayMetrics();
 
