@@ -26,7 +26,7 @@ public class LoginDetail extends Activity {
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
-		setContentView(R.layout.login_options);
+		setContentView(R.layout.login_options);//put your layout here with 3 buttons in center fb,g+ & signup 
 		
 		bar = getActionBar();
 		
